@@ -1,0 +1,7 @@
+.stage{
+    z-index: 0;
+}
+
+.tetrimino{
+    z-index: 1;
+}
